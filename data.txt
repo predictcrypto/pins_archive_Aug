@@ -10,7 +10,7 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 17144
+  rows: 17145
   cols: 3
   type: table
 - path: wxtz_price
@@ -110,7 +110,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions_old
   name: crypto_tutorial_holdout_predictions_old
-  rows: 9975
+  rows: 9440
   cols: 9
   type: table
 - path: crypto_tutorial_holdout_predictions
