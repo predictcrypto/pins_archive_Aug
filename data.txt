@@ -60,7 +60,7 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 17143
+  rows: 17144
   cols: 3
   type: table
 - path: plenty_price
@@ -95,7 +95,7 @@
   type: table
 - path: crypto_tutorial_results_latest
   name: crypto_tutorial_results_latest
-  rows: 910
+  rows: 920
   cols: 6
   type: table
 - path: decentraland_MANA_orders
