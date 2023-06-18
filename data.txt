@@ -10,17 +10,17 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 17223
+  rows: 17222
   cols: 3
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 17223
+  rows: 17222
   cols: 3
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 17223
+  rows: 17222
   cols: 3
   type: table
 - path: kusd_price
@@ -30,17 +30,17 @@
   type: table
 - path: usds_price
   name: usds_price
-  rows: 17223
+  rows: 17222
   cols: 3
   type: table
 - path: usdtz_price
   name: usdtz_price
-  rows: 17223
+  rows: 17222
   cols: 3
   type: table
 - path: ethtz_price
   name: ethtz_price
-  rows: 17223
+  rows: 17222
   cols: 3
   type: table
 - path: sdao_price
@@ -75,7 +75,7 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 2859
+  rows: 2863
   cols: 62
   type: table
 - path: hitBTC_orderbooks_github
@@ -105,7 +105,7 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 117299
+  rows: 117489
   cols: 11
   type: table
 - path: crypto_tutorial_holdout_predictions_old
