@@ -63,3 +63,8 @@
   rows: 17185
   cols: 3
   type: table
+- path: data_name_service_transfers_latest
+  name: data_name_service_transfers_latest
+  rows: 20
+  cols: 1
+  type: table
