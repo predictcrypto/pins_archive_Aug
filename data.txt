@@ -60,7 +60,7 @@
   type: table
 - path: flame_price
   name: flame_price
-  rows: 17210
+  rows: 17212
   cols: 3
   type: table
 - path: data_name_service_transfers_latest
