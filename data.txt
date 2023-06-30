@@ -35,12 +35,12 @@
   type: table
 - path: sdao_price
   name: sdao_price
-  rows: 17198
+  rows: 17197
   cols: 3
   type: table
 - path: rsal_price
   name: rsal_price
-  rows: 17197
+  rows: 17198
   cols: 3
   type: table
 - path: tz10x_price
