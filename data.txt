@@ -1,11 +1,11 @@
 - path: wrap_price
   name: wrap_price
-  rows: 17204
+  rows: 17203
   cols: 3
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 17203
+  rows: 17204
   cols: 3
   type: table
 - path: stkr_price
