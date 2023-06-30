@@ -20,12 +20,12 @@
   type: table
 - path: usds_price
   name: usds_price
-  rows: 17231
+  rows: 17230
   cols: 3
   type: table
 - path: usdtz_price
   name: usdtz_price
-  rows: 17230
+  rows: 17231
   cols: 3
   type: table
 - path: ethtz_price
