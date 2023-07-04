@@ -50,12 +50,12 @@
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 17230
+  rows: 17229
   cols: 3
   type: table
 - path: plenty_price
   name: plenty_price
-  rows: 17229
+  rows: 17230
   cols: 3
   type: table
 - path: flame_price
