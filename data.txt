@@ -1,16 +1,16 @@
 - path: wrap_price
   name: wrap_price
-  rows: 17223
+  rows: 17222
   cols: 3
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 17223
+  rows: 17222
   cols: 3
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 17223
+  rows: 17222
   cols: 3
   type: table
 - path: kusd_price
@@ -75,7 +75,7 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 2862
+  rows: 2863
   cols: 62
   type: table
 - path: hitBTC_orderbooks_github
@@ -115,6 +115,6 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 114588
+  rows: 114747
   cols: 11
   type: table
