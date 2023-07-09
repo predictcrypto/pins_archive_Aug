@@ -1,21 +1,21 @@
 - path: wrap_price
   name: wrap_price
-  rows: 17176
+  rows: 17174
   cols: 3
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 17176
+  rows: 17175
   cols: 3
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 17176
+  rows: 17175
   cols: 3
   type: table
 - path: kusd_price
   name: kusd_price
-  rows: 17176
+  rows: 17175
   cols: 3
   type: table
 - path: usds_price
@@ -70,7 +70,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 17175
+  rows: 17174
   cols: 3
   type: table
 - path: GRT_network_stats
