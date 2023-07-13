@@ -1,6 +1,6 @@
 - path: wrap_price
   name: wrap_price
-  rows: 17219
+  rows: 17220
   cols: 3
   type: table
 - path: wxtz_price
@@ -70,7 +70,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 17218
+  rows: 17219
   cols: 3
   type: table
 - path: GRT_network_stats
