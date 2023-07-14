@@ -45,12 +45,12 @@
   type: table
 - path: tz10x_price
   name: tz10x_price
-  rows: 17223
+  rows: 17222
   cols: 3
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 17223
+  rows: 17222
   cols: 3
   type: table
 - path: plenty_price
@@ -115,6 +115,6 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 113687
+  rows: 113593
   cols: 11
   type: table
