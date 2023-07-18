@@ -90,7 +90,7 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 2861
+  rows: 2863
   cols: 62
   type: table
 - path: crypto_tutorial_results_latest
@@ -110,6 +110,6 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 112935
+  rows: 113119
   cols: 11
   type: table
