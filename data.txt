@@ -5,7 +5,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 17207
+  rows: 17206
   cols: 3
   type: table
 - path: wrap_price
@@ -85,7 +85,7 @@
   type: table
 - path: sushiswap_hourly
   name: sushiswap_hourly
-  rows: 197599
+  rows: 197597
   cols: 14
   type: table
 - path: GRT_network_stats
