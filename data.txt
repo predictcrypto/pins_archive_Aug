@@ -10,12 +10,12 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 17223
+  rows: 17222
   cols: 3
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 17223
+  rows: 17222
   cols: 3
   type: table
 - path: stkr_price
@@ -110,6 +110,6 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 112761
+  rows: 112593
   cols: 11
   type: table
