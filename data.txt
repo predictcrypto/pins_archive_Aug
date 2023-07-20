@@ -90,7 +90,7 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 2853
+  rows: 2855
   cols: 62
   type: table
 - path: crypto_tutorial_results_latest
