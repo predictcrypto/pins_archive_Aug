@@ -1,7 +1,7 @@
 path:
-- https://github.com/predictcrypto/pins/releases/download/sushiswap_hourly-ee5b2f8/data.csv
+- https://github.com/predictcrypto/pins/releases/download/sushiswap_hourly-7f0f0c3/data.csv
 - data.rds
-rows: 197579
+rows: 197578
 cols: 14
 columns:
   periodStartUnix: integer
