@@ -45,7 +45,7 @@
   type: table
 - path: sdao_price
   name: sdao_price
-  rows: 17214
+  rows: 17213
   cols: 3
   type: table
 - path: rsal_price
@@ -100,7 +100,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions_old
   name: crypto_tutorial_holdout_predictions_old
-  rows: 6355
+  rows: 6455
   cols: 9
   type: table
 - path: crypto_tutorial_holdout_predictions
