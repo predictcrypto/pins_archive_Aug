@@ -110,7 +110,7 @@
   type: table
 - path: sushiswap_daily
   name: sushiswap_daily
-  rows: 111561
+  rows: 111399
   cols: 11
   type: table
 - path: decentraland_MANA_orders
