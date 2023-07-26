@@ -100,12 +100,12 @@
   type: table
 - path: crypto_tutorial_holdout_predictions_old
   name: crypto_tutorial_holdout_predictions_old
-  rows: 6080
+  rows: 6845
   cols: 9
   type: table
 - path: crypto_tutorial_holdout_predictions
   name: crypto_tutorial_holdout_predictions
-  rows: 6845
+  rows: 6080
   cols: 9
   type: table
 - path: sushiswap_daily
