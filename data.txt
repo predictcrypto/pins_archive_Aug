@@ -5,7 +5,7 @@
   type: table
 - path: hdao_price
   name: hdao_price
-  rows: 17220
+  rows: 17219
   cols: 3
   type: table
 - path: wrap_price
@@ -107,4 +107,9 @@
   name: crypto_tutorial_holdout_predictions
   rows: 6820
   cols: 9
+  type: table
+- path: decentraland_MANA_orders
+  name: decentraland_MANA_orders
+  rows: 10652
+  cols: 19
   type: table
