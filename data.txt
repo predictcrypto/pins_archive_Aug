@@ -10,7 +10,7 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 17180
+  rows: 17182
   cols: 3
   type: table
 - path: wxtz_price
@@ -90,7 +90,7 @@
   type: table
 - path: GRT_network_stats
   name: GRT_network_stats
-  rows: 2857
+  rows: 2856
   cols: 62
   type: table
 - path: crypto_tutorial_results_latest
