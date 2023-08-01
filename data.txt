@@ -50,12 +50,12 @@
   type: table
 - path: rsal_price
   name: rsal_price
-  rows: 17224
+  rows: 17223
   cols: 3
   type: table
 - path: tz10x_price
   name: tz10x_price
-  rows: 17224
+  rows: 17223
   cols: 3
   type: table
 - path: bdao_price
@@ -112,4 +112,9 @@
   name: decentraland_MANA_orders
   rows: 10652
   cols: 19
+  type: table
+- path: sushiswap_daily
+  name: sushiswap_daily
+  rows: 110164
+  cols: 11
   type: table
