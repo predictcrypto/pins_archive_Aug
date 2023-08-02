@@ -10,22 +10,22 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 17167
+  rows: 17169
   cols: 3
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 17167
+  rows: 17169
   cols: 3
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 17169
+  rows: 17167
   cols: 3
   type: table
 - path: kusd_price
   name: kusd_price
-  rows: 17167
+  rows: 17169
   cols: 3
   type: table
 - path: usds_price
