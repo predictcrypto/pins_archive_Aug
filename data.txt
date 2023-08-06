@@ -55,12 +55,12 @@
   type: table
 - path: tz10x_price
   name: tz10x_price
-  rows: 17273
+  rows: 17272
   cols: 3
   type: table
 - path: bdao_price
   name: bdao_price
-  rows: 17272
+  rows: 17273
   cols: 3
   type: table
 - path: plenty_price
