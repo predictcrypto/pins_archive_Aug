@@ -73,3 +73,8 @@
   rows: 17161
   cols: 3
   type: table
+- path: sushiswap_hourly
+  name: sushiswap_hourly
+  rows: 197576
+  cols: 14
+  type: table
