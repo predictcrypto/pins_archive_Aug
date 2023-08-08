@@ -10,7 +10,7 @@
   type: table
 - path: wrap_price
   name: wrap_price
-  rows: 17164
+  rows: 17163
   cols: 3
   type: table
 - path: wxtz_price
@@ -77,4 +77,9 @@
   name: sushiswap_hourly
   rows: 197576
   cols: 14
+  type: table
+- path: GRT_network_stats
+  name: GRT_network_stats
+  rows: 2856
+  cols: 62
   type: table
