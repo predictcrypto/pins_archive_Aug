@@ -15,12 +15,12 @@
   type: table
 - path: wxtz_price
   name: wxtz_price
-  rows: 17169
+  rows: 17168
   cols: 3
   type: table
 - path: stkr_price
   name: stkr_price
-  rows: 17168
+  rows: 17169
   cols: 3
   type: table
 - path: kusd_price
