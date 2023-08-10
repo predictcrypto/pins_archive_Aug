@@ -40,22 +40,22 @@
   type: table
 - path: ethtz_price
   name: ethtz_price
-  rows: 17186
+  rows: 17184
   cols: 3
   type: table
 - path: sdao_price
   name: sdao_price
-  rows: 17184
+  rows: 17186
   cols: 3
   type: table
 - path: rsal_price
   name: rsal_price
-  rows: 17186
+  rows: 17184
   cols: 3
   type: table
 - path: tz10x_price
   name: tz10x_price
-  rows: 17184
+  rows: 17186
   cols: 3
   type: table
 - path: bdao_price
