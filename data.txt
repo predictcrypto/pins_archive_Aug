@@ -100,7 +100,7 @@
   type: table
 - path: crypto_tutorial_holdout_predictions
   name: crypto_tutorial_holdout_predictions
-  rows: 7470
+  rows: 7135
   cols: 9
   type: table
 - path: sushiswap_daily
