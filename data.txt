@@ -115,6 +115,6 @@
   type: table
 - path: decentraland_MANA_orders
   name: decentraland_MANA_orders
-  rows: 10667
+  rows: 10668
   cols: 19
   type: table
