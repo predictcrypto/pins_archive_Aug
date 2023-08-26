@@ -75,7 +75,7 @@
   type: table
 - path: sushiswap_hourly
   name: sushiswap_hourly
-  rows: 197590
+  rows: 197592
   cols: 14
   type: table
 - path: GRT_network_stats
